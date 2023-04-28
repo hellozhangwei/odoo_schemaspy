@@ -1,0 +1,1 @@
+java -jar schemaspy-6.2.2.jar -dp . -db odoo -host localhost -port 5432 -s public -u odoo -p P@ssw0rd -o output

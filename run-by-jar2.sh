@@ -1,0 +1,1 @@
+java -jar schemaspy-6.2.2.jar -o output -dp .
